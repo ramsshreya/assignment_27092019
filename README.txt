@@ -1,9 +1,9 @@
 1. Test Users:
 
-testuser_1 / testuser111
-testuser_2 / testuser222
-testuser_3 / testuser333
-testuser_4 / testuser444
+	testuser_1 / testuser111
+	testuser_2 / testuser222
+	testuser_3 / testuser333
+	testuser_4 / testuser444
 
 2. Dummy tasks created for each users, post login the Home page will list the details per user entitlements.
 
