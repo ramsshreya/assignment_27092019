@@ -1,0 +1,37 @@
+2019-09-26 21:15:59,622 [8] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:23:33,553 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:33:31,769 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:33:32,009 [7] ERROR ToDoList.Home - Error at PopulateTaskGrid method - SQL logic error
+no such column: isCompleted
+2019-09-26 21:33:46,176 [10] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:33:46,227 [7] ERROR ToDoList.Home - Error at PopulateTaskGrid method - SQL logic error
+no such column: isCompleted
+2019-09-26 21:33:52,932 [9] ERROR ToDoList.Home - Error at PopulateTaskGrid method - SQL logic error
+no such column: isCompleted
+2019-09-26 21:35:17,843 [10] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:39:15,295 [12] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:43:34,375 [10] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:44:53,722 [6] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:45:03,160 [7] ERROR ToDoList.Home - Error at ckbxTaskCompleted_CheckedChanged method - Input string was not in a correct format.
+2019-09-26 21:45:09,651 [6] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:46:00,141 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:47:26,896 [10] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:48:51,183 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:52:36,310 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:58:18,387 [10] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 21:58:58,305 [11] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 22:27:17,262 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 22:28:59,189 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 22:30:15,749 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 22:32:34,427 [9] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 22:33:22,646 [11] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.
+2019-09-26 22:49:14,221 [9] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - unable to open database file
+2019-09-26 22:49:45,127 [8] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - unable to open database file
+2019-09-26 22:54:52,219 [8] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - unable to open database file
+2019-09-26 22:56:11,128 [9] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - unable to open database file
+2019-09-26 22:56:50,317 [9] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - URI formats are not supported.
+2019-09-26 22:57:15,133 [9] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - URI formats are not supported.
+2019-09-26 23:15:15,845 [8] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - unable to open database file
+2019-09-26 23:15:54,925 [8] ERROR ToDoList.ToDoLogin - Error at PopulateTestUserGrid method - SQL logic error
+no such table: tblUserBase
+2019-09-26 23:16:09,126 [8] ERROR ToDoList.ToDoLogin - Error at btnLogin_Click method - Thread was being aborted.

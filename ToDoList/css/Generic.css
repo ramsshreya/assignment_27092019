@@ -1,0 +1,10 @@
+﻿.textboxlength
+{
+    min-width: 300px;
+    max-width: 300px;
+}
+
+.btnlength {
+    min-width: 150px;
+    max-width: 150px;
+}
