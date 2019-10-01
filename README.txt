@@ -75,6 +75,8 @@
 
 20. As the bootstrap framework is used and also any inline js/css used is designed to make sure to have a Responsive design, to support multibrowser.
 
+21. We should be using only the minified version for prod deployment for size consideration.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 Note:
